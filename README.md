@@ -1,13 +1,63 @@
-## 📄 Project Description
+![](https://img.shields.io/badge/PLP%20Academy-Portfolio%20Challenge-blueviolet)
 
-This project is my submission for the **PLP Academy Portfolio Challenge**, where I built a personal portfolio website using **HTML** and **CSS** to showcase my skills, background, and achievements.  
+# Project: PLP Portfolio Website Challenge
 
-The portfolio includes:
-- **About Me** – A brief introduction about my journey and passion for tech.
-- **Programming Languages** – A list of languages and tools I’m proficient in.
-- **Educational Background** – My academic qualifications with a downloadable CV.
-- **Interests** – Key areas in tech that inspire me.
-- **Projects** – Highlighted works with descriptions and relevant links.
-- **Contact Form** – For easy communication with potential collaborators or employers.  
+## In this project, you will:
 
-This project demonstrates my creativity, attention to detail, and ability to structure a web page that is both functional and visually appealing.
+> Build a personal portfolio website that showcases your skills, background, and achievements. The portfolio includes sections like About Me, Educational Background, Projects, Interests, and Contact.
+
+# Project Screenshot image
+![](./Images/Portfolio_snippet.jpeg)
+
+## Link to the live page
+
+> Feel free to check the [Portfolio-link](https://your-portfolio-link.netlify.app)
+
+## Getting Started
+
+- Create a local directory where you want to clone the repository.
+
+- Open the terminal or command prompt in the created directory.
+
+- On the terminal run this command:
+  bash
+  git clone https://github.com/Dee22-GeoDev/My_portfolio.git
+  
+
+- Navigate to the repository folder:
+  bash
+  cd My_portfolio
+  
+
+- Open index.html in your browser or use Live Server in your code editor.
+
+## Built with
+
+- HTML  
+- CSS  
+
+## Authors
+
+👤 *Damacline Moya*
+
+- GitHub: [Dee22-GeoDev](https://github.com/Dee22-GeoDev)  
+- LinkedIn: [Damacline Moya](https://www.linkedin.com/in/damacline-moya-77870026b/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues](https://github.com/Dee22-GeoDev/My_portfolio/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to the PLP Academy for this opportunity  
+- Inspiration from previous projects  
+- Appreciation to mentors and Deskies for support
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
