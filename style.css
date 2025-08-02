@@ -33,7 +33,7 @@
   }
 
   .hamburger {
-    font-size: 30px;
+    font-size: 20px;
     cursor: pointer;
     position: fixed;
     top: 20px;
@@ -100,7 +100,7 @@
     padding: 0;
     margin: 0;
     color: #4f46e5;
-    font-size: 40px;
+    font-size: 30px;
   }
 
   .hero-sec {
@@ -128,7 +128,7 @@
 
   .prof {
     color: #475569;
-    font-size: 20px;
+    font-size: 12px;
     padding: 0px;
   }
 
@@ -435,7 +435,6 @@
     justify-content: center;
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
-    background-color: #df1717;
     margin: 1rem;
   }
 
@@ -646,6 +645,7 @@
     .hamburger {
       display: none;
 
+
     }
 
     .nav-links {
@@ -655,10 +655,22 @@
       font-size: 20px;
     }
 
+    .portfolio {
+      font-size: 40px;
+    }
+
     .hero-cont {
       display: flex;
       flex-direction: row;
       padding-top: 10rem;
+    }
+
+    .name {
+      font-size: 60px;
+    }
+
+    .prof {
+      font-size: 20px;
     }
 
     .hero-info {
