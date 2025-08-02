@@ -11,7 +11,7 @@
 
 ## Link to the live page
 
-> Feel free to check the [Portfolio-link](https://your-portfolio-link.netlify.app)
+> Feel free to check the [Portfolio-link](https://magnificent-sunshine-24a3e6.netlify.app/)
 
 ## Getting Started
 
