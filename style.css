@@ -651,8 +651,8 @@
     .nav-links {
       display: flex;
       background-color: #fff;
-      gap: 1rem;
-      font-size: 20px;
+      gap: 0.5rem;
+      font-size: 16px;
     }
 
     .portfolio {
