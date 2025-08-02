@@ -113,7 +113,7 @@
 
   .name {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
     color: black;
     padding-top: 4rem;
@@ -128,7 +128,7 @@
 
   .prof {
     color: #475569;
-    font-size: 30px;
+    font-size: 20px;
     padding: 0px;
   }
 
@@ -621,7 +621,7 @@
     font-size: 20px;
   }
 
-  @media screen and (min-width: 1080px) {
+  @media screen and (min-width: 768px) {
 
     :root {
       --header-font: "Poppins";
