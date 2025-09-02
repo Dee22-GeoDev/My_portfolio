@@ -1,63 +1,107 @@
-![](https://img.shields.io/badge/PLP%20Academy-Portfolio%20Challenge-blueviolet)
+Project: Online Exam Platform – PLP Hackathon 2
+In this project, we built:
 
-# Project: PLP Portfolio Website Challenge
+A lightweight, accessible online exam platform designed to help learners in rural environments access digital exams.
+The system generates quizzes, allows students to attempt them, and provides instant scores. It also features login/signup functionality, a free tier, and a subscription model for sustainability.
 
-## In this project, you will:
+🎯 Problem & Solution
 
-> Build a personal portfolio website that showcases your skills, background, and achievements. The portfolio includes sections like About Me, Educational Background, Projects, Interests, and Contact.
+Challenge: Limited access to educational resources and exam preparation tools in rural areas.
 
-# Project Screenshot image
-![](./Images/Portfolio_snippet.jpeg)
+Solution:
 
-## Link to the live page
+A digital exam system optimized for low-resource devices.
 
-> Feel free to check the [Portfolio-link](https://magnificent-sunshine-24a3e6.netlify.app/)
+Students can sign up / log in, generate an exam, attempt multiple-choice questions, and view results instantly.
 
-## Getting Started
+Inclusivity: A free version ensures access for all learners.
 
-- Create a local directory where you want to clone the repository.
+Sustainability: Two subscription models:
 
-- Open the terminal or command prompt in the created directory.
+Basic (10 Ksh/month): Unlocks additional exam attempts.
 
-- On the terminal run this command:
-  bash
-  git clone https://github.com/Dee22-GeoDev/My_portfolio.git
-  
+Premium (100 Ksh/month): Unlimited access + advanced analytics.
 
-- Navigate to the repository folder:
-  bash
-  cd My_portfolio
-  
+By balancing accessibility with sustainability, the platform empowers rural learners with affordable and effective exam preparation tools.
 
-- Open index.html in your browser or use Live Server in your code editor.
+🖼️ Project Screenshot
 
-## Built with
+📑 Presentation
 
-- HTML  
-- CSS  
+Check out the full pitch deck:
+Gamma Presentation Link
 
-## Authors
+🚀 Getting Started
 
-👤 *Damacline Moya*
+Create a local directory where you want to clone the repository.
 
-- GitHub: [Dee22-GeoDev](https://github.com/Dee22-GeoDev)  
-- LinkedIn: [Damacline Moya](https://www.linkedin.com/in/damacline-moya-77870026b/)
+Open the terminal in that directory.
 
-## 🤝 Contributing
+Run the command:
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues](https://github.com/Dee22-GeoDev/My_portfolio/issues)
+git clone https://github.com/Dee22-GeoDev/My_portfolio.git
 
-## Show your support
 
-Give a ⭐️ if you like this project!
+Navigate to the project folder:
 
-## Acknowledgments
+cd My_portfolio
 
-- Hat tip to the PLP Academy for this opportunity  
-- Inspiration from previous projects  
-- Appreciation to mentors and Deskies for support
 
-## 📝 License
+Open index.html in your browser, or use Live Server in your code editor.
+
+🛠️ Built With
+
+HTML
+
+CSS
+
+Java
+
+Flask
+
+Lovable ai
+
+👥 Team Members & Roles
+
+Damacline Moya – Team Lead – deemoya19@gmail.com
+
+Faith Omondi – Frontend Developer – faithomondi20300@gmail.com
+
+Hildah Kwamboka Mogusu – Database – mogusuhm@gmail.com
+
+Collins Kipchumba – Business & Monetisation Strategy – 9098.2024@students.ku.ac.ke
+
+Esther Mutheu – Presentation & Documentation – mutheuesther990@gmail.com
+
+👤 Author
+
+Damacline Moya
+
+GitHub: Dee22-GeoDev
+
+LinkedIn: Damacline Moya
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Check the issues page
+.
+
+⭐ Show Your Support
+
+Give this project a ⭐ if you found it inspiring!
+
+🙏 Acknowledgments
+
+Special thanks to PLP Academy for the hackathon opportunity
+
+Inspiration from SDG 4 – Quality Education
+
+Appreciation to mentors and Deskies for guidance
+
+📝 License
+
+This project is MIT
+ licensed.
 
 This project is [MIT](./LICENSE) licensed.
